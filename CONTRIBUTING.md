@@ -1,1 +1,2 @@
 ## Contributing
+CONTRIBUTING.md
